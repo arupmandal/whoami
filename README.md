@@ -1,1 +1,1 @@
-https://arupmandal.github.io/whoami.github.io/
+https://arupmandal.github.io/whoami/
